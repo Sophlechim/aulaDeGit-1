@@ -1,0 +1,1 @@
+print("Taca a mãe pra ver se quica!")
